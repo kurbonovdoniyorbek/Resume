@@ -1,0 +1,161 @@
+{
+    "basics": {
+        "name": "Doniyorbek Kurbonov",
+        "email": "kurbonovdoniyor99@gmail.com",
+        "website": "https://portfolio-amber-ten-59.vercel.app/",
+        "phone": "+998 99 439 82 84",
+        "location": {
+            "address": "Uzbekistan, Andijan"
+        }
+    },
+    "education": [
+        {
+            "location": "Uzbekistan, Namangan",
+            "area": "Namangan",
+            "studyType": "Web Development",
+            "startDate": "2021-11",
+            "endDate": "2022-05",
+            "institution": "Algorithm edu"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Completed various freelance projects across multiple industries, delivering high-quality work on time and within budget. Maintained strong communication with clients to ensure satisfaction and repeat business."
+            ],
+            "company": "Nam Tech Solutions",
+            "position": "Junior Front-enddeveloper",
+            "location": "Uzbekistan, Namangan",
+            "startDate": "2022-09",
+            "endDate": "2023-02"
+        },
+        {
+            "highlights": [
+                "I worked on several smaller projects that allowed m e to refine my skills in front-end development, back-end development, and database management. These experiences helped m e become more proficient in coding languages such as HTML/CSS, JavaScript"
+            ],
+            "company": "Fiverr",
+            "position": "Mern-stack developer",
+            "location": "Uzbekistan,Andijan (Remote)",
+            "startDate": "2023-01",
+            "endDate": "XXXX-XX"
+        }
+    ],
+    "skills": [
+        {
+            "level": "",
+            "name": "Programming Languages",
+            "keywords": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": [
+                "React.js",
+                "Express.js",
+                "Node.js",
+                "Next.js",
+                "Redux.js",
+                "Redux-toolkit"
+            ]
+        },
+        {
+            "name": "Tools/Platforms",
+            "keywords": [
+                "Git",
+                "MongoDB",
+                "Typescript"
+            ]
+        },
+        {
+            "name": ".",
+            "keywords": [
+                "VS Code",
+                "Firebase",
+                "Figma",
+                "Web Developer Tools"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Asaxiy Clone",
+            "description": "i built clone version of e-commerce website of uzbekistan while learning React.js",
+            "url": "https://acommercialwebsite.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "Telegram bot",
+                "Firebase",
+                "Redux",
+                "React.js"
+            ]
+        },
+        {
+            "name": "Uzum",
+            "description": "i recreated new version of e-commerce website of uzbekistan,aslo added some designs by myself",
+            "url": "https://e-commercial-website.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "Firebase",
+                "Redux",
+                "React.js"
+            ]
+        },
+        {
+            "name": "Bellisimo",
+            "description": "i built clone version of food delivery website of uzbekistan to practice my skills",
+            "url": "https://bellissimo-clone.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "Telegram bot",
+                "Firebase",
+                "Redux",
+                "React.js"
+            ]
+        },
+        {
+            "name": "Qr code generator",
+            "description": "i created qr code generator,you can fill the input and convert your text to qr code",
+            "url": "https://qr-code-generator-theta-three.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "Redux",
+                "API"
+            ]
+        },
+        {
+            "name": "Qr code generator",
+            "description": "i created qr code generator,you can fill the input and convert your text to qr code",
+            "url": "https://qr-code-generator-theta-three.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "Redux",
+                "API"
+            ]
+        },
+        {
+            "name": "Weather application",
+            "description": "i created weather application while learning JavaScript and i also used highcharts",
+            "url": "https://weather-app-gilt-omega.vercel.app/",
+            "keywords": [
+                "Javascript",
+                "HighCharts"
+            ]
+        },
+        {
+            "name": "Quote of the day",
+            "description": "i like philosophy,that's why i created project where you can get quotes of famous people",
+            "url": "https://quote-of-the-day-sooty.vercel.app/",
+            "keywords": [
+                "React.js",
+                "API"
+            ]
+        }
+    ],
+    "certificates": [],
+    "awards": [
+        {}
+    ]
+}
